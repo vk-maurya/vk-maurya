@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Vijay
-- 👀 I’m interested in Machine/Deep Learning Stuff
-- 🌱 I’m currently learning NLP related Task,HuggingFace.
 - 📫 you can reach me <a href='www.linkedin.com/in/vk-maurya'> Linkedin</a> 
 
 <!---
